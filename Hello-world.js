@@ -1,3 +1,3 @@
-const == 10;
+const number = 3;
 let word = "Hello World";
-console.lof(word);
+console.log(word);
